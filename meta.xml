@@ -1,0 +1,12 @@
+<meta>
+
+    <oop>true</oop>
+
+    <script src='lib/classes.lua' type='client' cache='false'/>
+    <script src='vehicles.lua' type='shared'/>
+    <script src='index.lua' type='client' cache='false'/>
+    <script src='events.lua' type='server'/>
+
+    <file src='components/images/background.png' type='server'/>
+    <file src='components/images/icon.png' type='server'/>
+</meta>
